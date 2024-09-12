@@ -1,0 +1,26 @@
+html, body {
+    background-color: rgb(53, 52, 51);
+    color:rgb(169, 152, 128);
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    padding: 1rem;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+section {
+    border: 2px solid rgb(169, 152, 128);
+    border-radius: 2rem;
+    padding: 0 1rem 0.5rem 1rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    padding: 2rem 0 1rem 0;
+    text-align: right;
+}
